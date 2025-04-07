@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137561112569",
+    "project_id": "hostel-199d5",
+    "storage_bucket": "hostel-199d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137561112569:android:e8f0759fee7335b6b2c728",
+        "android_client_info": {
+          "package_name": "com.example.compapp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUd-j4zBJFV8jIQ6huVw-IdsyV0CTKEeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137561112569:android:27b9bad921220f92b2c728",
+        "android_client_info": {
+          "package_name": "com.example.compapp4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUd-j4zBJFV8jIQ6huVw-IdsyV0CTKEeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
