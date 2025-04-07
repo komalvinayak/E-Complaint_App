@@ -1,6 +1,3 @@
-Here’s a simple, attractive, and professional `README.md` for your GitHub project based strictly on your provided content and the screenshot:
-
----
 
 # 📱 E-Complaint Box App
 
@@ -87,6 +84,3 @@ Key highlights:
 
 The **E-Complaint Box App** streamlines hostel complaint management, improves communication, and ensures transparency. With its real-time capabilities and clean design, it’s a reliable tool for students and wardens alike. It saves time, improves organization, and supports scalable, secure complaint handling for hostels.
 
----
-
-Let me know if you want me to add badges, GitHub usage instructions, or installation commands.
