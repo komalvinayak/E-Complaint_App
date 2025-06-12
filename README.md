@@ -1,11 +1,11 @@
 
-# 📱 E-Complaint Box App
+# E-Complaint Box App
 
 A mobile application designed to digitize and simplify the complaint management process in hostels. Built using **Flutter** and integrated with **Firebase** for real-time functionality.
 
 ---
 
-## 🚀 Introduction
+## Introduction
 
 The **E-Complaint Box App** offers an efficient platform for students to submit complaints and for wardens to manage them. By replacing traditional paperwork with a digital system, the app ensures faster complaint resolution and organized management.
 
@@ -16,7 +16,7 @@ Key highlights:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Enable students to submit complaints with ease.  
 2. Save time by replacing manual processes.  
@@ -26,7 +26,7 @@ Key highlights:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Flutter**: App design and navigation  
 - **Firebase**: Authentication and real-time database  
@@ -37,9 +37,9 @@ Key highlights:
 
 ---
 
-## 📲 Features & Functionalities
+## Features & Functionalities
 
-### 👤 Role-Based Access
+### Role-Based Access
 
 **Students:**
 - Login/Signup
@@ -50,28 +50,28 @@ Key highlights:
 - View all complaints
 - Swipe left to delete complaints
 
-### 📋 Complaint Dashboard (Warden)
+### Complaint Dashboard (Warden)
 - Lists all complaints sorted by latest first  
 - Swipe to delete functionality
 
-### 📝 Complaint Form (Student)
+### Complaint Form (Student)
 - Easy-to-fill complaint form  
 - Saves data directly to Firebase in real-time
 
-### 🔐 Firebase Integration
+### Firebase Integration
 - **Authentication**: Secure login/signup  
 - **Real-time Database**: Live updates for both roles
 
-### 💡 Additional Features
+### Additional Features
 - Clean and user-friendly design  
 - Role-based restrictions for data security  
 - Efficient complaint management without paperwork
 
 ---
 
-## 🔄 Code & Implementation
+## Code & Implementation
 
-### 🔁 App Flow:
+### App Flow:
 1. **Role Selection Page**: Choose between Student or Warden  
 2. **Login/Signup Pages**: Separate flows for both roles with validation  
 3. **Complaint Dashboard**: Wardens view complaints, latest first  
@@ -80,7 +80,7 @@ Key highlights:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The **E-Complaint Box App** streamlines hostel complaint management, improves communication, and ensures transparency. With its real-time capabilities and clean design, it’s a reliable tool for students and wardens alike. It saves time, improves organization, and supports scalable, secure complaint handling for hostels.
 
